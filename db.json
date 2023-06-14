@@ -1,0 +1,275 @@
+{
+"Users":[
+    {
+    "id":1,
+    "email":"project@gmail.com",
+    "password":"project123",
+    "name":"user"
+    },
+    {
+    "id":2,
+    "email":"admin@gmail.com",
+    "password":"admin123",
+    "name":"admin"
+    }    
+],
+"Carts":[
+
+],
+"Orders":[
+
+],
+"products":[
+    {"image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664476935/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/243228_luuxjq.png/mxw_1440,f_auto",
+    "title":"boAt Rockerz 558",
+    "id":1,
+    "description":"Bluetooth Headset with Mic (Dual Connectivity, Over Ear, Black)",
+    "price":"1799.00",
+    "category":"headphone"
+    },
+    {"image":"https://th.bing.com/th/id/R.329de009afd46098ee24cb6b004a89d1?rik=CLcM1sylVTpOlg&riu=http%3a%2f%2fwww.bhphotovideo.com%2fimages%2fimages2500x2500%2fbeats_by_dr_dre_900_00108_01_studio_wireless_headphones_white_1016366.jpg&ehk=%2fBwHdKJ0eGmmpzE7oTrCNsim037FuKZAmyeWVDddWhg%3d&risl=&pid=ImgRaw&r=0",
+    "title":"Beats Headphone",
+    "id":2,
+    "description":"Wireless Bluetooth headphone with high quality speakers",
+    "price":"26000",
+    "category":"headphone"
+    },
+    {"image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5739/5739304_rd.jpg",
+    "title":"Sony XB950B1",
+    "id":3,
+    "description":"Wireless over the ear bluetooth speaker",
+    "price":"22000",
+    "category":"headphone"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/f4710a3c-6d3f-4487-88ac-e9aa3b34a0a422160956.jpg",
+    "title":"Boats Airdopes 381",
+    "id":4,
+    "description":" In Ear Wireless Earbuds Flawless sound with Bluetooth v5.0 (Blue)",
+    "price":"1600",
+    "category":"Airdopes"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/570d6976-1df3-4f2f-a4a6-fca24616051422071146_416x416.jpg",
+    "title":"JBL Tune 710BT",
+    "id":5,
+    "description":"Wireless Headphones with Mic, 50 Hours Playtime (Black)",
+    "price":"6000",
+    "category":"headphone"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/e5cdd0d0-d673-44c1-b3c4-368f9a3cdeb522101235.jpg",
+    "title":"Marshall Motif ANC",
+    "id":6,
+    "description":"wireless Earbuds with Active Noise Cancellation, Fast Charging, IPX5 in earbuds. IPX4 in case (Black)",
+    "price":"19000",
+    "category":"Airdopes"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/00ce26f1-987c-4429-aed1-d4e0a80a79a0_416x416.jpg",
+    "title":"JBL T175BT",
+    "id":7,
+    "description":" Bluetooth Headset (Blue) Neckband",
+    "price":"1499",
+    "category":"Neckband"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/7ac15915-391f-4e1a-9de2-00c8a1c2883022211112_416x416.jpg",
+    "title":"Sony WF-1000XM4",
+    "id":8,
+    "description":"Industry-leading Digital Noise Canceling Truly Wireless Earbuds with Exceptional Sound Quality (Black)",
+    "price":"19990",
+    "category":"Airdopes"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/74152ac3-317d-4030-9fd5-b2a15878526c22101104.jpg",
+    "title":"boAt Rockerz 255",
+    "id":9,
+    "description":"RTL Bluetooth Wireless in Ear Earphones with Mic, boAt Signature Audio (Active Black)",
+    "price":"1299",
+    "category":"Neckband"
+    },
+    {"image":"https://d2xamzlzrdbdbn.cloudfront.net/products/a032d75b-d597-419f-9033-cc580d14d37e22231258_416x416.jpg",
+    "title":"Realme Buds Wireless 2S ",
+    "id":10,
+    "description":"AI ENC Noise Cancellation for Calls, 24 Hours Long Battery Life, 88ms Ultra-Low Latency (Black)",
+    "price":"2500",
+    "category":"Neckband"
+    },
+    {
+    "id":11,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlJTIwcGhvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "POCO C31 (Royal Blue, 64 GB)",
+    "description": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB 16.59 cm (6.53 inch) HD+ Display 13MP + 2MP + 2MP | 5MP Front Camera 5000 mAh Lithium-ion Polymer Battery MediaTek Helio G35 Processor",
+    "price": 11999,
+    "category":"Mobile",
+    "brand": "POCO"
+    },
+    {
+    "id":12,
+    "image": "https://i.pinimg.com/564x/73/02/9a/73029a3ec1a3421d8ee4103b064fbb41.jpg",
+    "title": "realme C35 (Glowing Green, 64 GB)",
+    "description": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB 16.76 cm (6.6 inch) Full HD+ Display 50MP + 2MP + 0.3MP | 8MP Front Camera 5000 mAh Lithium Polymer Battery Unisoc Tiger T616 Processor",
+    "price": 13999,
+    "category":"Mobile",
+    "brand": "realme"
+    },
+    {
+    "id":13,
+    "image": "https://i.pinimg.com/564x/95/fc/76/95fc76efe2a0cbcb0127d25c11ddcb61.jpg",
+    "title": "OPPO K10 (Black Carbon, 128 GB)",
+    "description": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB 16.74 cm (6.59 inch) Full HD+ Display 50MP + 2MP + 2MP | 16MP Front Camera 5000 mAh Lithium Ion Battery Qualcomm Snapdragon 680 Processor 33W SUPERVOOC Charger | Dual Speaker | Super Adaptive Refresh Rate AI Photo Suite | OPPO Glow Design with Dirt and Scratch Resistant",
+    "price": 18999,
+    "category":"Mobile",
+    "brand": "OPPO"
+    },
+    {
+    "id":14,
+    "image": "https://i.pinimg.com/564x/03/e5/f8/03e5f8a565850f71efc22c71e8360267.jpg",
+    "title": "MOTOROLA G60 (Soft Silver, 128 GB)",
+    "description": "6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Full HD+ Display 108MP + 8MP + 2MP | 32MP Front Camera 6000 mAh Battery Qualcomm Snapdragon 732G Processor 120Hz Refresh Rate Stock Android Experience",
+    "price": 21999,
+    "category":"Mobile",
+    "brand": "MOTOROLA"
+    },
+    {
+    "id":15,
+    "image": "https://i.pinimg.com/564x/63/a5/6d/63a56dcc7a8878bf99d06fc3891e47e6.jpg",
+    "title": "realme C20 (Cool Grey, 32 GB)",
+    "description": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB 16.51 cm (6.5 inch) HD+ Display 8MP Rear Camera | 5MP Front Camera 5000 mAh Battery MediaTek Helio G35 Processor",
+    "price": 7999,
+    "category":"Mobile",
+    "brand": "realme"
+    },
+    {
+    "id":16,
+    "image": "https://i.pinimg.com/564x/ee/e2/74/eee274e164bedd2bfb64390bd3c89331.jpg",
+    "title": "POCO C31 (Royal Blue, 32 GB)",
+    "description": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB 16.59 cm (6.53 inch) HD+ Display 13MP + 2MP + 2MP | 5MP Front Camera 5000 mAh Lithium-ion Polymer Battery MediaTek Helio G35 Processor",
+    "price": 10999,
+    "category":"Mobile",
+    "brand": "POCO"
+    },
+    {
+    "id":17,
+    "image": "https://i.pinimg.com/564x/63/a5/6d/63a56dcc7a8878bf99d06fc3891e47e6.jpg",
+    "title": "REDMI 10 (Caribbean Green, 128 GB)",
+    "description": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB 17.02 cm (6.7 inch) HD+ Display 50MP + 2MP | 5MP Front Camera 6000 mAh Lithium Polymer Battery Qualcomm Snapdragon 680 Processor",
+    "price": 16999,
+    "category":"Mobile",
+    "brand": "REDMI"
+    },
+    {
+    "id":18,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlJTIwcGhvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "REDMI 9i Sport (Carbon Black, 64 GB)",
+    "description": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB 16.59 cm (6.53 inch) HD+ Display 13MP Rear Camera | 5MP Front Camera 5000 mAh Li-Polymer Battery MediaTek Helio G25 Processor",
+    "price": 9999,
+    "category":"Mobile",
+    "brand": "REDMI"
+    },
+    {
+    "id":19,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlJTIwcGhvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",
+    "description": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB 16.76 cm (6.6 inch) Full HD+ Display 50MP + 8MP + 2MP | 8MP Front Camera 5000 mAh Lithium Ion Battery Qualcomm Snapdragon 750G Processor",
+    "price": 23999,
+    "category":"Mobile",
+    "brand": "SAMSUNG"
+    },
+    {
+    "id":20,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlJTIwcGhvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "vivo T1 5G (Starlight Black, 128 GB)",
+    "description": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP + 2MP | 16MP Front Camera 5000 mAh Lithium Battery Qualcomm Snapdragon 695 Processor",
+    "price": 19990,
+    "category":"Mobile",
+    "brand": "vivo"
+    },
+    {
+    "id": 21,
+    "title": "DELL Vostro Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) Vostro 3510 Thin and Light L...",
+    "price": "37990",
+    "image": "https://i.pinimg.com/564x/c0/3a/42/c03a42de3d7f353a56f26561563aff29.jpg",
+    "description": "Processor: Intel i3-1115G4 (Base- 1.7 GHz & Turbo up to 4.10 GHz) 2 Cores",
+    "category":"Laptops",
+    "brand": "DELL"
+    },
+    {
+    "id": 22,
+    "title": "HP 14s Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 14s - dy2507TU Thin and Light Laptop",
+    "price": "35490",
+    "image": "https://i.pinimg.com/564x/98/fc/b9/98fcb9df2c6f60635777492ae72d3e7e.jpg",
+    "description": "Intel Core i3 Processor (11th Gen)",
+    "category":"Laptops",
+    "brand": "HP"
+    },
+    {
+    "id": 23,
+    "title": "Lenovo V15 G2 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) V15 ITL G2 Laptop",
+    "price": "33999",
+    "image": "https://i.pinimg.com/564x/9a/ff/1b/9aff1b24edb4db924cfa5767e1ac7f75.jpg",
+    "description": "Intel Core i3 Processor (11th Gen)",
+    "category":"Laptops",
+    "brand": "Lenovo"
+    },
+    {
+    "id": 24,
+    "title": "ASUS VivoBook 15 (2022) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS | X515JA-E...",
+    "price": "33990",
+    "image": "https://i.pinimg.com/564x/98/fc/b9/98fcb9df2c6f60635777492ae72d3e7e.jpg",
+    "description": "Intel Core i3 Processor (10th Gen)",
+    "category":"Laptops",
+    "brand": "ASUS"
+    },
+    {
+    "id": 25,
+    "title": "ASUS TUF Gaming A17 with 90Whr Battery Ryzen 7 Octa Core AMD R7-4800H - (8 GB/512 GB SSD/Windows 11 Ho...",
+    "price": "67990",
+    "image": "https://i.pinimg.com/564x/9a/ff/1b/9aff1b24edb4db924cfa5767e1ac7f75.jpg",
+    "description": "AMD Ryzen 7 Octa Core Processor",
+    "category":"Laptops",
+    "brand": "ASUS"
+    },
+    {
+    "id": 26,
+    "title": "HP Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 15s- eq2182AU Thin and Light Laptop",
+    "price": "49123",
+    "image": "https://i.pinimg.com/564x/9a/ff/1b/9aff1b24edb4db924cfa5767e1ac7f75.jpg",
+    "description": "AMD Ryzen 5 Hexa Core Processor",
+    "category":"Laptops",
+    "brand": "HP"
+    },
+    {
+    "id": 27,
+    "title": "RedmiBook Pro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) Thin and Light Laptop",
+    "price": "39990",
+    "image": "https://i.pinimg.com/564x/c0/3a/42/c03a42de3d7f353a56f26561563aff29.jpg",
+    "description": "Intel Core i5 Processor (11th Gen)",
+    "category":"Laptops",
+    "brand": "RedmiBook"
+    },
+    {
+    "id": 28,
+    "title": "acer Aspire 3 Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) A315-23 Laptop",
+    "price": "26990",
+    "image": "https://i.pinimg.com/564x/9a/ff/1b/9aff1b24edb4db924cfa5767e1ac7f75.jpg",
+    "description": "AMD Ryzen 3 Dual Core Processor",
+    "category":"Laptops",
+    "brand": "acer"
+    },
+    {
+    "id": 29,
+    "title": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A",
+    "price": "86990",
+    "image": "https://i.pinimg.com/564x/9a/ff/1b/9aff1b24edb4db924cfa5767e1ac7f75.jpg",
+    "description": "Apple M1 Processor",
+    "category":"Laptops",
+    "brand": "APPLE"
+    },
+    {
+    "id": 30,
+    "title": "DELL Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 11 Home) D560841WIN9S Thin and Ligh...",
+    "price": "41990",
+    "image": "https://i.pinimg.com/564x/c0/3a/42/c03a42de3d7f353a56f26561563aff29.jpg",
+    "description": "Processor: Intel i3-1115G4 (Base- 1.70 GHz & Turbo up to 4.10 GHz) 2 Cores",
+    "category":"Laptops",
+    "brand": "DELL"
+    }
+]
+}  
+
